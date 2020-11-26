@@ -2,7 +2,7 @@
 
 **Sujet** : Récupérer un billet d'avion pour aller à la destination de vos rêves
 
-![screenshot](./src/assets/screenshot.png)
+![screenshot](https://github.com/bratosab/click-travel-ng/blob/main/src/assets/screenshot.png)
 
 # Partie 1 (1h)
 
@@ -31,7 +31,7 @@
 
 - Au clic sur un billet de la liste, affichage du billet avec le même design que le billet suivant :
 
-![ticket](./src/assets/ticket-example.jpg)
+![ticket](https://github.com/bratosab/click-travel-ng/blob/main/src/assets/ticket-example.jpg)
 
 Avec les champs suivant :
 
